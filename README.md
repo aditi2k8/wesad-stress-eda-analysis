@@ -52,19 +52,3 @@ A One-Way ANOVA across `Baseline`, `Stress`, `Amusement`, and `Meditation` rejec
 * **EDA:** $t = -20.3934, p < 10^{-15}$, Cohen's $d = -2.665$ (Huge Effect) — strong autonomic sympathetic deflection.
 * **Heart Rate:** $t = -4.6807, p = 7.15 \times 10^{-6}$, Cohen's $d = -0.625$ (Medium Effect).
 * **BVP Amplitude:** $t = -1.4542, p = 0.1544$ — binary separation was not statistically significant, but ANOVA showed significant differentiation between Amusement and Meditation.
-
----
-
-## 📁 Repository Structure
-```text
-├── README.md
-├── stress_analysis.py         # Complete Python analysis pipeline
-├── requirements.txt           # Dependencies
-└── outputs_analysis/
-    ├── fig1_signals.png       # Continuous time series plot
-    ├── fig2_boxplots.png      # Condition boxplots
-    ├── window_features.csv    # 30-second aggregated features
-    ├── ttest_stress_vs_nonstress.csv
-    ├── anova_four_categories.csv
-    ├── tukey_posthoc.csv
-    └── descriptive_statistics.csv
