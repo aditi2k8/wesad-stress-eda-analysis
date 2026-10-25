@@ -1,0 +1,5 @@
+,HR,HR,HR,HR,HR,HR,EDA,EDA,EDA,EDA,EDA,EDA,BVP_amp,BVP_amp,BVP_amp,BVP_amp,BVP_amp,BVP_amp,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP
+,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max
+stress_binary,,,,,,,,,,,,,,,,,,,,,,,,
+Non-stress,76,72.495,72.289,5.8,62.631,90.799,76,0.248,0.284,0.241,-0.047,1.233,76,38.26,24.607,31.407,10.12,176.246,76,34.916,34.969,0.23,34.383,35.319
+Stress,20,74.928,73.809,8.299,61.035,90.571,20,0.833,0.88,0.217,0.536,1.152,20,60.388,55.367,32.398,14.253,148.993,20,33.288,33.344,0.402,32.559,33.82
