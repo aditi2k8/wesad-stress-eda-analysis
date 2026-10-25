@@ -30,11 +30,11 @@ The objective of this project is to determine whether wrist-worn wearable physio
 
 ### 1. Continuous Multi-Channel Signal Streams
 Shows the continuous bio-signals over the 130-minute protocol with affective condition segments highlighted:
-![Continuous Signals](outputs_analysis/fig1_signals.png)
+![Continuous Signals]
 
 ### 2. Feature Distribution Across Conditions
 Boxplot comparison of Heart Rate, EDA, BVP Amplitude, and Skin Temperature across the 4 affective states:
-![Feature Boxplots](outputs_analysis/fig2_boxplots.png)
+![Feature Boxplots]
 
 ---
 
